@@ -29,3 +29,11 @@ python app/unemployment.py
 
 python -m app.unemployment
 ```
+
+## Testing
+
+Run tests:
+
+```sh
+pytest
+```
